@@ -1,7 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <Authors>VariableNotFound &amp;&amp; FixedBuffer</Authors>
+    <Description>Paquete de ejemplo para entrada sobre como publicar un paquete manualmente y con CI/CD</Description>
   </PropertyGroup>
 
 </Project>
