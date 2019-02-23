@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard1.0</TargetFramework>
     <PackageId>NugetColaboracionVNF</PackageId>
     <Authors>VariableNotFound &amp;&amp; FixedBuffer</Authors>
     <Company>Jorge Turrado Ferrero</Company>
