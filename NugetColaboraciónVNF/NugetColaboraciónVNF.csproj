@@ -4,6 +4,10 @@
     <TargetFramework>netstandard1.0</TargetFramework>
     <Authors>VariableNotFound &amp;&amp; FixedBuffer</Authors>
     <Description>Paquete de ejemplo para entrada sobre como publicar un paquete manualmente y con CI/CD</Description>
+    <PackageProjectUrl>https://github.com/FixedBuffer/CreacionPaqueteNuget</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/FixedBuffer/CreacionPaqueteNuget/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/FixedBuffer/CreacionPaqueteNuget</RepositoryUrl>
+    <PackageTags>ejemplo</PackageTags>
   </PropertyGroup>
 
 </Project>
